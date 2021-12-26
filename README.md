@@ -1,6 +1,6 @@
 # rtep-CRUD
-# ts-graphql-crud-example
-# -----------------------
+ts-graphql-crud-example
+-----------------------
 
 npx create-graphql-api my-project-name
 
